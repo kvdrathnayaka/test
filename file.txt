@@ -1,2 +1,2 @@
 file created to find conflicts....
-changes on remote location
+changes on local machine
